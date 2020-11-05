@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <NeutralLanguage>pt-CV</NeutralLanguage>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Authors>FabioHCNobre</Authors>
@@ -12,8 +12,9 @@
     <Copyright>Licença Apache-2.0</Copyright>
     <PackageIcon>images.jpg</PackageIcon>
     <RepositoryUrl>https://github.com/fabiohcnobre/SNRHos</RepositoryUrl>
-    <PackageTags>fnrh, SNRHos</PackageTags>
+    <PackageTags>fnrh, SNRHos, Sistema, Nacional, Registro, Hóspedes, turismo,</PackageTags>
     <PackageReleaseNotes>Ajuste de Pacote</PackageReleaseNotes>
+    <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

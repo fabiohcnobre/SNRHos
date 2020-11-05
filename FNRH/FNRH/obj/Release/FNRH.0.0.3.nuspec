@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FNRH</id>
+    <version>0.0.3</version>
+    <authors>FabioHCNobre</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>images.jpg</icon>
+    <projectUrl>https://github.com/fabiohcnobre/SNRHos</projectUrl>
+    <description>Objetivo a definição das especificações e critérios especializados para que os meios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de Web Service.</description>
+    <releaseNotes>Ajuste de Pacote</releaseNotes>
+    <copyright>Licença Apache-2.0</copyright>
+    <tags>fnrh, SNRHos, Sistema, Nacional, Registro, Hóspedes, turismo,</tags>
+    <repository url="https://github.com/fabiohcnobre/SNRHos" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\bin\Release\netstandard2.0\FNRH.dll" target="lib\netstandard2.0\FNRH.dll" />
+    <file src="C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\images.jpg" target="images.jpg" />
+  </files>
+</package>
