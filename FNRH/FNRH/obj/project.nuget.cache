@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQxQw/7p1mg7d4XdsIaNcFIWrShtP1GOK5+2XnjkbZfosn1Sg4fYusNh3dxKB2Esje5jXYAhG7XyZqj8Kx+1dA==",
+  "dgSpecHash": "aaonkQ8zx7HT4ejoOEh73QS1dhKUgHtb2m5ce2k3qCWy9e3zKgo8Z174vftOlyWBjmzquUdMtI5JHhbdqpApug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

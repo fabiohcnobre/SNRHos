@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj": {}
+    "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj": {
+    "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj": {
       "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj",
         "projectName": "FNRH",
-        "projectPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj",
+        "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\FNRH.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\FNRH\\FNRH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

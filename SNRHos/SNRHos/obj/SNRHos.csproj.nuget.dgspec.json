@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj": {}
+    "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj": {
+    "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
         "projectName": "SNRHos",
-        "projectPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
+        "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
