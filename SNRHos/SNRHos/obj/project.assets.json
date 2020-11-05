@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "UAP,Version=v10.0.17763": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -309,6 +318,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -795,6 +813,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm-aot": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -1282,6 +1309,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm64-aot": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -1769,6 +1805,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x64": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -2255,6 +2300,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x64-aot": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -2742,6 +2796,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x86": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -3228,6 +3291,15 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x86-aot": {
+      "FNRH/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FNRH.dll": {}
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
         "type": "package",
         "dependencies": {
@@ -3716,6 +3788,19 @@
     }
   },
   "libraries": {
+    "FNRH/0.0.2": {
+      "sha512": "+lhYXYqr1lr8nt6TWN0dROgLVnXad5kazMf91hSM1oNBsFnPuDvrU/IortwG4pfbkPlbG5pVpMLLdDUXGh6I0Q==",
+      "type": "package",
+      "path": "fnrh/0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fnrh.0.0.2.nupkg.sha512",
+        "fnrh.nuspec",
+        "images.jpg",
+        "lib/netstandard2.0/FNRH.dll"
+      ]
+    },
     "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
       "sha512": "JmPpJFTBZz+IW2iMf9C2uSBEJouDt3zaeqURRFah3gJ0xEMd/Gd3iu3HQYwfTsbx/f+C8n8pTAqiXPMpIci/iw==",
       "type": "package",
@@ -8147,6 +8232,7 @@
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17763": [
+      "FNRH >= 0.0.2",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10"
     ]
   },
@@ -8158,11 +8244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
       "projectName": "SNRHos",
-      "projectPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8190,6 +8276,10 @@
     "frameworks": {
       "uap10.0.17763": {
         "dependencies": {
+          "FNRH": {
+            "target": "Package",
+            "version": "[0.0.2, )"
+          },
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",
             "version": "[6.2.10, )"

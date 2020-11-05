@@ -11,13 +11,19 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FNRH")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FabioHCNobre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Licença Apache-2.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Objetivo a definição das especificações e critérios especializados para que os me" +
+    "ios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma " +
+    "integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de W" +
+    "eb Service.")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FNRH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FNRH")]
-[assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.0.2.0")]
+[assembly: System.Resources.NeutralResourcesLanguageAttribute("pt-CV")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

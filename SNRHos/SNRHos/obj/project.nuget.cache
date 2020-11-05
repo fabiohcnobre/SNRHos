@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tGyanYbtPGYl0mgmcTO00TkDaWRgry/RWxbtshScphF81OTyXKgsL3X0GqrDu/WpplxhWL6JuoHdxsLPvSwIXA==",
+  "dgSpecHash": "5g9iIFWQT+oAEHK4D8e3Wh2ZaKvULgkN/7r+NZ6TQC9nTBVRUDbvZNpwXRz1n3gUH/2Fy0CBNpbRbu/RYGxs4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos\\SNRHos.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\fnrh\\0.0.2\\fnrh.0.0.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
