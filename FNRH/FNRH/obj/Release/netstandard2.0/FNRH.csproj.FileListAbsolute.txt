@@ -1,9 +1,0 @@
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\bin\Release\netstandard2.0\FNRH.deps.json
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\bin\Release\netstandard2.0\FNRH.dll
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\bin\Release\netstandard2.0\FNRH.pdb
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\obj\Release\netstandard2.0\FNRH.csprojAssemblyReference.cache
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\obj\Release\netstandard2.0\FNRH.AssemblyInfoInputs.cache
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\obj\Release\netstandard2.0\FNRH.AssemblyInfo.cs
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\obj\Release\netstandard2.0\FNRH.csproj.CoreCompileInputs.cache
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\obj\Release\netstandard2.0\FNRH.dll
-C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\FNRH\FNRH\obj\Release\netstandard2.0\FNRH.pdb

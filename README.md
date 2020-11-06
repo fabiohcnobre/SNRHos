@@ -1,5 +1,5 @@
 
-[![Nuget count](http://img.shields.io/nuget/v/FNRH.svg)](https://www.nuget.org/packages/FNRH/)
+[![Nuget count](http://img.shields.io/nuget/v/SNRHos.svg)](https://www.nuget.org/packages/SNRHos/)
 [![Junte-se ao chat https://gitter.im/fabiohcnobre/SNRHos](https://badges.gitter.im/fabiohcnobre/SNRHos.svg)](https://gitter.im/fabiohcnobre/SNRHos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # SNRHos

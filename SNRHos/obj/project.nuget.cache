@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+Qp97e4qUxtp0R6dZwCkj0XlW5SHosrQUd4lnDQ9jr4CJQKLnkuEBqls6LCfsHr5jJ+zN7tFyDNBgcc9JDiOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
