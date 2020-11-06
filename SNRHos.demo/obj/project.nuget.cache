@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p6wwDipjU+9zXlI0AEdq22vcIhBBb2SDrd7b7z28sU6CgdEfqs4tAqQtnwH9yX9iF/tvNtQnKHolUOFrwX/U0g==",
+  "dgSpecHash": "nYgr4u2r81aTdpM9a7/nzaWdE5T9uHHRn29jhuYm5oyfor7MVT/r8h6dESM70dzhkoMD7tf6TDFSZfBYsEny0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,7 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.7-rel-28605-00\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.7-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.10\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.10\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
-    "C:\\Users\\fabio\\.nuget\\packages\\snrhos\\1.0.0\\snrhos.1.0.0.nupkg.sha512"
+    "C:\\Users\\fabio\\.nuget\\packages\\snrhos\\1.0.0.1\\snrhos.1.0.0.1.nupkg.sha512"
   ],
   "logs": []
 }

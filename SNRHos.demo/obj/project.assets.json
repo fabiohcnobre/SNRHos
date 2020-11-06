@@ -307,7 +307,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -802,7 +802,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -1298,7 +1298,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -1794,7 +1794,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -2289,7 +2289,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -2785,7 +2785,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -3280,7 +3280,7 @@
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -3776,7 +3776,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0": {
+      "SNRHos/1.0.0.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -8216,16 +8216,16 @@
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
     },
-    "SNRHos/1.0.0": {
-      "sha512": "cKJXLpIfemRNmDYLlKvjy3ntU4Wk4TSbEYAMncqG+zsd9iluTGpFFAOSlP68AraG3QmcSzEC9vdCFfu34ww4cQ==",
+    "SNRHos/1.0.0.1": {
+      "sha512": "NRm82t9h5c6cB10xfFtc1+OxExfkqd7FFtb8ygGQM0w44WeKdnfIznpRMATKgJbWTRncPC13R5VKwSh7DJCXkQ==",
       "type": "package",
-      "path": "snrhos/1.0.0",
+      "path": "snrhos/1.0.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "images.jpg",
         "lib/netstandard2.0/SNRHos.dll",
-        "snrhos.1.0.0.nupkg.sha512",
+        "snrhos.1.0.0.1.nupkg.sha512",
         "snrhos.nuspec"
       ]
     }
@@ -8233,7 +8233,7 @@
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17763": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10",
-      "SNRHos >= 1.0.0"
+      "SNRHos >= 1.0.0.1"
     ]
   },
   "packageFolders": {
@@ -8282,7 +8282,7 @@
           },
           "SNRHos": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.0.1, )"
           }
         },
         "imports": [
