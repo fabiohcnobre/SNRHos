@@ -19,6 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
+          "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\NuGet.Config",
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -27,9 +28,7 @@
           "uap10.0.17763"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/fabiohcnobre/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "uap10.0.17763": {
@@ -46,7 +45,7 @@
             },
             "SNRHos": {
               "target": "Package",
-              "version": "[0.0.5.1, )"
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

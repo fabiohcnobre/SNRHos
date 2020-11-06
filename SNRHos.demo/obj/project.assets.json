@@ -307,7 +307,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -802,7 +802,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -1298,7 +1298,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -1794,7 +1794,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -2289,7 +2289,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -2785,7 +2785,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -3280,7 +3280,7 @@
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -3776,7 +3776,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/0.0.5.1": {
+      "SNRHos/1.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/SNRHos.dll": {}
@@ -8216,16 +8216,16 @@
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
     },
-    "SNRHos/0.0.5.1": {
-      "sha512": "JcfL63P528Qv7LmM3T3o28Xo5JoG13lOEhoFrW366JDsBepNIZ04xbtkotxB9uZTq/33Swyjl+hrblrO603o/Q==",
+    "SNRHos/1.0.0": {
+      "sha512": "cKJXLpIfemRNmDYLlKvjy3ntU4Wk4TSbEYAMncqG+zsd9iluTGpFFAOSlP68AraG3QmcSzEC9vdCFfu34ww4cQ==",
       "type": "package",
-      "path": "snrhos/0.0.5.1",
+      "path": "snrhos/1.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "images.jpg",
         "lib/netstandard2.0/SNRHos.dll",
-        "snrhos.0.0.5.1.nupkg.sha512",
+        "snrhos.1.0.0.nupkg.sha512",
         "snrhos.nuspec"
       ]
     }
@@ -8233,7 +8233,7 @@
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17763": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10",
-      "SNRHos >= 0.0.5.1"
+      "SNRHos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8256,6 +8256,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
+        "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\NuGet.Config",
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -8264,9 +8265,7 @@
         "uap10.0.17763"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/fabiohcnobre/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "uap10.0.17763": {
@@ -8283,7 +8282,7 @@
           },
           "SNRHos": {
             "target": "Package",
-            "version": "[0.0.5.1, )"
+            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -8316,13 +8315,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
-    }
-  ]
+  }
 }

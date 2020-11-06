@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IXW0bLPG1eRCJ4RMfEdl/T3BVdhZ9O4CB6w2ns8D1ZY7wb236rkhDVzwTDtmd29+zOPWo6cGh7cwPB1wHqGW3Q==",
+  "dgSpecHash": "ZGXiU17tU0/ThO4LWlE7nK5H5yCMbJ2uWJIobpEHTBjIg5sJWhVtsyhAmBZwtdk8PQW5TdStQxokZteR6LXSkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
-    }
-  ]
+  "logs": []
 }
