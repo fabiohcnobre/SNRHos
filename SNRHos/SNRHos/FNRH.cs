@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace FNRH
+namespace SNRHos
 {
-    class FNRH
+    public class FNRH
     {
         string snnumcpf; //Chave de acesso do meio de hospedagem 
         string sntipdoc; //Cadastro de pessoa física com máscara. Ex:000.000.000-00 

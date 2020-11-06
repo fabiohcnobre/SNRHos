@@ -1,0 +1,9 @@
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\bin\Release\netstandard2.0\SNRHos.deps.json
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\bin\Release\netstandard2.0\SNRHos.dll
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\bin\Release\netstandard2.0\SNRHos.pdb
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.AssemblyInfo.cs
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.dll
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.pdb
+C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.csprojAssemblyReference.cache

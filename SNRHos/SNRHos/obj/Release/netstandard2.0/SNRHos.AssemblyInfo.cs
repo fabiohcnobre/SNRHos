@@ -12,17 +12,17 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FabioHCNobre")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Licença Apache-2.0")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Objetivo a definição das especificações e critérios especializados para que os me" +
     "ios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma " +
     "integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de W" +
     "eb Service.")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.5.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.5.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.5.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.5.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNRHos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNRHos")]
-[assembly: System.Reflection.AssemblyVersionAttribute("0.0.5.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.0.5.1")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
