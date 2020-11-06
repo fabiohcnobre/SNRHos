@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SNRHos.SNHos
+namespace FNRH
 {
     class FNRH
     {
