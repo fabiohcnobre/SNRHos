@@ -4,8 +4,9 @@ namespace SNRHos
 {
     public class FNRH
     {
-        string snnumcpf; //Chave de acesso do meio de hospedagem 
-        string sntipdoc; //Cadastro de pessoa física com máscara. Ex:000.000.000-00 
+        string chaveAcesso; //Chave de acesso do meio de hospedagem 
+        string snnumcpf; //Cadastro de pessoa física com máscara. Ex:000.000.000-00 
+        string sntipdoc; 
         string snnumdoc;
         string snorgexp;
         string snnomecompleto;
@@ -40,6 +41,11 @@ namespace SNRHos
         string snobs;
         string snnumhosp;
         string snuhnum;
+
+        /// <summary>
+        ///    Chave de acesso do meio de hospedagem 
+        /// </summary>
+        public string ChaveAcesso { get => chaveAcesso; set => chaveAcesso = value; }
 
         public string Snnumcpf { get => snnumcpf; set => snnumcpf = value; }
         public string Sntipdoc { get => sntipdoc; set => sntipdoc = value; }

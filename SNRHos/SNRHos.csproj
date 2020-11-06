@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.0</Version>
+    <Version>1.0.0.1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>FabioHCNobre</Authors>
     <Description>Objetivo a definição das especificações e critérios especializados para que os meios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de Web Service.</Description>
@@ -10,7 +10,9 @@
     <PackageProjectUrl>https://github.com/fabiohcnobre/SNRHos</PackageProjectUrl>
     <PackageIcon>images.jpg</PackageIcon>
     <RepositoryUrl>https://github.com/fabiohcnobre/SNRHos</RepositoryUrl>
-    <PackageTags>SNRHos, fnrh</PackageTags>
+    <PackageTags>SNRHos, fnrh, turismo, Brasil</PackageTags>
+    <PackageReleaseNotes>Ajuste chave - Ainda em teste</PackageReleaseNotes>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
