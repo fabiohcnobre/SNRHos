@@ -308,12 +308,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -803,12 +804,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -1299,12 +1301,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -1795,12 +1798,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -2290,12 +2294,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -2786,12 +2791,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -3281,12 +3287,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     },
@@ -3777,12 +3784,13 @@
         }
       },
       "SNRHos/1.0.0.1": {
-        "type": "package",
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SNRHos.dll": {}
+          "bin/placeholder/SNRHos.dll": {}
         }
       }
     }
@@ -3862,7 +3870,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
+      "sha512": "ok+RPAtESz/9MUXeIEz6Lv5XAGQsaNmEYXMsgVALj4D7kqC8gveKWXWXbufLySR2fWrwZf8smyN5RmHu0e4BHA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
@@ -8217,17 +8225,9 @@
       ]
     },
     "SNRHos/1.0.0.1": {
-      "sha512": "NRm82t9h5c6cB10xfFtc1+OxExfkqd7FFtb8ygGQM0w44WeKdnfIznpRMATKgJbWTRncPC13R5VKwSh7DJCXkQ==",
-      "type": "package",
-      "path": "snrhos/1.0.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "images.jpg",
-        "lib/netstandard2.0/SNRHos.dll",
-        "snrhos.1.0.0.1.nupkg.sha512",
-        "snrhos.nuspec"
-      ]
+      "type": "project",
+      "path": "../SNRHos/SNRHos.csproj",
+      "msbuildProject": "../SNRHos/SNRHos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8269,7 +8269,11 @@
       },
       "frameworks": {
         "uap10.0.17763": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj": {
+              "projectPath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj"
+            }
+          }
         }
       }
     },
@@ -8279,10 +8283,6 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",
             "version": "[6.2.10, )"
-          },
-          "SNRHos": {
-            "target": "Package",
-            "version": "[1.0.0.1, )"
           }
         },
         "imports": [
