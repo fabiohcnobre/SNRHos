@@ -18,11 +18,11 @@ using System.Reflection;
     "ios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma " +
     "integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de W" +
     "eb Service.")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNRHos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNRHos")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.2")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("pt-BR")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

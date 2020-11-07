@@ -307,7 +307,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -803,7 +803,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -1300,7 +1300,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -1797,7 +1797,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -2293,7 +2293,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -2790,7 +2790,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -3286,7 +3286,7 @@
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -3783,7 +3783,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "SNRHos/1.0.0.1": {
+      "SNRHos/1.0.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -8224,7 +8224,7 @@
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
     },
-    "SNRHos/1.0.0.1": {
+    "SNRHos/1.0.0.2": {
       "type": "project",
       "path": "../SNRHos/SNRHos.csproj",
       "msbuildProject": "../SNRHos/SNRHos.csproj"
@@ -8233,7 +8233,7 @@
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17763": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10",
-      "SNRHos >= 1.0.0.1"
+      "SNRHos >= 1.0.0.2"
     ]
   },
   "packageFolders": {
