@@ -23,6 +23,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("SNRHos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNRHos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.2")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/fabiohcnobre/SNRHos")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("pt-BR")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

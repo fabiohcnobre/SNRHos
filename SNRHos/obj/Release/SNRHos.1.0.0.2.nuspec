@@ -4,7 +4,6 @@
     <id>SNRHos</id>
     <version>1.0.0.2</version>
     <authors>FabioHCNobre</authors>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <icon>images.jpg</icon>
     <projectUrl>https://github.com/fabiohcnobre/SNRHos</projectUrl>
     <description>Objetivo a definição das especificações e critérios especializados para que os meios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de Web Service.</description>

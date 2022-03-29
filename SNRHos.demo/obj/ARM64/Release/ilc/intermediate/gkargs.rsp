@@ -1,0 +1,8 @@
+﻿"C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos.demo\obj\ARM64\Release\ilc\in\SNRHos.dll"
+"C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos.demo\obj\ARM64\Release\ilc\in\SNRHos.demo.exe"
+/Lib:"C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos.demo\obj\ARM64\Release\ilc\in"
+/Lib:"C:\Users\fabio\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\ARM64\ilc\lib\Private"
+/WinMD:"C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos.demo\obj\ARM64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"553bc648-0bd2-4929-ad18-11f2b38c2ce5","Id":"e4223e68-d8c8-43ce-ab8a-35b951d0fbf8","ProcessStartTime":637754368290884491}"
+/RdXmlPath:"C:\Users\fabio\.nuget\packages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR

@@ -3797,7 +3797,7 @@
   },
   "libraries": {
     "Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
-      "sha512": "JmPpJFTBZz+IW2iMf9C2uSBEJouDt3zaeqURRFah3gJ0xEMd/Gd3iu3HQYwfTsbx/f+C8n8pTAqiXPMpIci/iw==",
+      "sha512": "5dPUM27TkI2K/VW51BfIJtYkQ+HmmpY0/GBop0CtHaXCOuYOH89IhtV/Dv9JE5iFODBKBR+yV1NkRjfhgDDBGw==",
       "type": "package",
       "path": "microsoft.net.native.compiler/2.2.8-rel-28605-00",
       "hasTools": true,
@@ -3851,7 +3851,7 @@
       ]
     },
     "Microsoft.Net.UWPCoreRuntimeSdk/2.2.10": {
-      "sha512": "E+kj8w7zLN2fs4JRmluOMYeGvkJ6nibxiMFAfyzMwLZGU6KJ6avvX5YrBGTC6rqXV5rBvEaVLSo/ApBoslD39A==",
+      "sha512": "mcfFnwGzJLisoJjsxiFd0SqYeuw9jNeKKiQIJkQ/lpeiOyCf36BFNWkwm6uvlD5C0s0e7QsGZlCv9/BfB5Xe9w==",
       "type": "package",
       "path": "microsoft.net.uwpcoreruntimesdk/2.2.10",
       "hasTools": true,
@@ -3887,7 +3887,7 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "YfQmR0oyJ9wO3a6uB9yutc3Vpt4ouaZ5cfnjcVi5ONLpSCBNyUHgcF4X9sflb1gQiXl1jT6aU2+VAkvQIRiSGQ==",
+      "sha512": "ROxFw/6HrgkUQKna0NAPWfmnuHpp/5JFB+lvTG47ELXiYjYpBfEKCGXax8kh/KKzP6uLDn4M3zJUUXC6Bst1+Q==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -4307,7 +4307,7 @@
       ]
     },
     "runtime.win10-arm-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "EjhVHW/GiH5/k/PICAGDfh6L0ulDhZpB76SxpRqX1Q+9Txq5I+2tqM8PsiQ75xhImwY0T/uPVkLn1I9XAZDsIg==",
+      "sha512": "WVxiCClbs/F3Nv4o0G28/ECU0QknEJHuHOKjaf3Dg8VNJushLGu99u2vYHLg4tSyRNhQBx5ll7CeY1sczS4VYg==",
       "type": "package",
       "path": "runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -4490,7 +4490,7 @@
       ]
     },
     "runtime.win10-arm.Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
-      "sha512": "D+fIHupLfpkn9+uUWuOagrWr4kQIkgasKrKSt8qQMcZ0DNZQGeZndS2S4eHMtjsdmHp9WQzcgwkiSdqpmJau4Q==",
+      "sha512": "HM5KPVRR+odWPlaBbrLueWlazAlVAeFCG+OJ419TznpdHChcdnkwTcS4CXE4EHuz5hXcVhkgjwbtDfGlPsPmFQ==",
       "type": "package",
       "path": "runtime.win10-arm.microsoft.net.native.compiler/2.2.8-rel-28605-00",
       "hasTools": true,
@@ -4789,7 +4789,7 @@
       ]
     },
     "runtime.win10-arm.Microsoft.Net.Native.SharedLibrary/2.2.7-rel-28605-00": {
-      "sha512": "4XjW1YL8X099ArVhVYias0I4Xu7tamwhIfMr++JrJpeZpmtHalqdSIBMsaIaWMZFyxKOomSW4W4fNvzLJFq9SA==",
+      "sha512": "Sj8KC0MbmN95RBYv6XFsFHz7hsBXNypsQCLfBIXDOOqvNZf/w6YBHyb6LnzRiCMl5jpzMwtMKPJkucv9N5fFMQ==",
       "type": "package",
       "path": "runtime.win10-arm.microsoft.net.native.sharedlibrary/2.2.7-rel-28605-00",
       "hasTools": true,
@@ -5167,7 +5167,7 @@
       ]
     },
     "runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk/2.2.10": {
-      "sha512": "mRtKZkmnKkd7pBr85TUzkv0vMOggXD2dmXC8I5raahugrt807+whsvmsJEnmW4EtdU3QVvpdhqT676r49Rj7zQ==",
+      "sha512": "rflL98T5HvVrpXsWktYVorYsRvGAQlxpdUrPwymnyGUQ4NgUS4TGFUTUG3tgStlEkDdHK9Tcgokc/OTLgZxPDw==",
       "type": "package",
       "path": "runtime.win10-arm.microsoft.net.uwpcoreruntimesdk/2.2.10",
       "hasTools": true,
@@ -5188,7 +5188,7 @@
       ]
     },
     "runtime.win10-arm.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "mHSAfyIW8OW8Ei3vwPYoCIDS9uCve9oJBxveEb+6tupokxH6J+i4yJRdq30BX3smnrBuimnhj7k78YuIhQ+qkw==",
+      "sha512": "3jdFJku4mZttJZ/dhVWUIntX/uj3qXLxp5ix4F80HxdkQfinjlg0WcxOfF23Qnv+uxigX0OdJ4ivRWze6Hs2OQ==",
       "type": "package",
       "path": "runtime.win10-arm.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -5370,7 +5370,7 @@
       ]
     },
     "runtime.win10-arm64-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "9C2dRqDXQp/427NkQs+FPJzmVPq1BOLqtDsrinGJ4FEhnXZc4i5e9jHY+6t+Xa6clPt8jNwGh+ZehtXH7Raj1w==",
+      "sha512": "SQSrSdI8gHXidwgM+pTB0+mnnR7B1tauwjo+CuYOV/Ww3unOdUYjoaKaU0KjOEQS3piRR6RJ37hzr2FKzKnlaA==",
       "type": "package",
       "path": "runtime.win10-arm64-aot.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -5553,7 +5553,7 @@
       ]
     },
     "runtime.win10-arm64.Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
-      "sha512": "inmWWhLz8FfyzMBW35Ivme88NqSt3lvDunkOZRQcPp7ceThusvs6EQzPNffNdyu+ejr6bnKloEx1xdl0+B0Rug==",
+      "sha512": "Wrgy4yr56no4BaUkxbsJiyU8adzDRrEru6JrVrV/Ac2xJ4StwOBXMXMKXiadyyAYtoUZzimb6M06Kwmr91krhg==",
       "type": "package",
       "path": "runtime.win10-arm64.microsoft.net.native.compiler/2.2.8-rel-28605-00",
       "hasTools": true,
@@ -5731,7 +5731,7 @@
       ]
     },
     "runtime.win10-arm64.Microsoft.Net.Native.SharedLibrary/2.2.7-rel-28605-00": {
-      "sha512": "ZvY1KY0f/SjnN5UlJZ2HVvLcC1tSmGqWQDRr1Kx2PJF+zM/mY4ts8mYtJ96ojFeD3nsv6WhHPl6wMMac8qQPGg==",
+      "sha512": "JAdbcX3hqT70ZH7ju+JNz/bncqf5N7LCKZ1fOJmI8BFGua2mYv0o+QdI7DYLoXOnFHcnRAVFp0PMkZgiRJ1ExQ==",
       "type": "package",
       "path": "runtime.win10-arm64.microsoft.net.native.sharedlibrary/2.2.7-rel-28605-00",
       "hasTools": true,
@@ -6111,7 +6111,7 @@
       ]
     },
     "runtime.win10-x64-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "1v/onr8H5bL9Ois7oNaZ+9rRPx6jnESISxKR55CRLOHeEPhhMJwap6bGnRtg/why0ieQKzoteNVDw4g31NFicw==",
+      "sha512": "ZSFlDtKoIhXfQYcGb7zapoXJDQFqm/YaWXYE1LyVM6X4nEXYuGsdbpSb4W5vFsv7bPiHe0VzcaMyBIBRxBhIrg==",
       "type": "package",
       "path": "runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -6294,7 +6294,7 @@
       ]
     },
     "runtime.win10-x64.Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
-      "sha512": "HHRLfD02/JsW0LP2CZUaGlRYljnSOpIk7XEAw4oH8QTbej3on/MH8yhxvr1iGKwrXtj5lIo8RmxRAGuUU0e9Ow==",
+      "sha512": "dSfb0x1jQgMI+9XYHcJVW/tEDAMFcJcAwlH2/1eemkfSZsX4yThU2okkT8ubbLy7ykKtTIar6sWtJeMkvPEeeg==",
       "type": "package",
       "path": "runtime.win10-x64.microsoft.net.native.compiler/2.2.8-rel-28605-00",
       "hasTools": true,
@@ -6587,7 +6587,7 @@
       ]
     },
     "runtime.win10-x64.Microsoft.Net.Native.SharedLibrary/2.2.7-rel-28605-00": {
-      "sha512": "551Sm3oZT+waMFTcuOfrNulaUcBBdgosAQAJy9EoY8WBwDfqnL7M9I5Gz8MUZdUKJxi8XMXX776cvt+BVO5tPQ==",
+      "sha512": "YBPxChbPISh5NzDXFUsMf5bLBIorzHENUxFMo/3NaXh6TO1IdXWcvaGsDoktpzYiPuceHiKMufeauVt5KGyGIg==",
       "type": "package",
       "path": "runtime.win10-x64.microsoft.net.native.sharedlibrary/2.2.7-rel-28605-00",
       "hasTools": true,
@@ -6965,7 +6965,7 @@
       ]
     },
     "runtime.win10-x64.Microsoft.Net.UWPCoreRuntimeSdk/2.2.10": {
-      "sha512": "0ngWdevYAEmsF4WHdnVnvurLdHwuAYhUJSeWpr5DuGCgHX8O8FXyVXEc0n/OEeN33ioni1HvKaBqvo+w1aMquA==",
+      "sha512": "qAsX/LP1XUQm0Nwpv5CD8FgomT4kU5n17rGe/wZjBfFSkQ8DWUA47AD6Z3eJPQyNUA3K6qqw7WYcydHvMAmOVQ==",
       "type": "package",
       "path": "runtime.win10-x64.microsoft.net.uwpcoreruntimesdk/2.2.10",
       "hasTools": true,
@@ -6986,7 +6986,7 @@
       ]
     },
     "runtime.win10-x64.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "1EHJmSYUrHUAYInt3WwoUz37BxA1XtwSNpWsXRUBvGBmZqZlgm0ZHPxBg1w/ywmgWW2n0ANsaCLQVITl+1RNyw==",
+      "sha512": "yidN5Az/P5GNdW2NJkguVJvSEm7odc/jz0ATotUiIBMj7D5Gjh51QbT3NqSHUv9+gkhcgTuaHrkf621BELvvdg==",
       "type": "package",
       "path": "runtime.win10-x64.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -7168,7 +7168,7 @@
       ]
     },
     "runtime.win10-x86-aot.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "7jkMrVHq4v/Rm++k0W/eMtWCK8/CG5Oa1i4I+xI7LyS59LEC3xdoA8WbUZuBIyIbcB2EWyQjetF4M4UoYq1AnQ==",
+      "sha512": "5GamW14asifhv5UjtwX/YvPtGzhp8BF35Gx5nqDpPqTOkQD4/30oYg5h7mr4Ci+XydAZSG9QFeAZYJOJ/mMacg==",
       "type": "package",
       "path": "runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -7351,7 +7351,7 @@
       ]
     },
     "runtime.win10-x86.Microsoft.Net.Native.Compiler/2.2.8-rel-28605-00": {
-      "sha512": "MYgv6FjZNDLUfXr9F3TfqrqLBQ+X6AfSrddprLQrsubWHc7fDndj1NSB6hf3AdXW0Lg3hBiXQdNHGrMeo3xFXA==",
+      "sha512": "FeGc48liZjUfLM8bqqvhZcPpug4QIYyDbbRPvdxgE6twl75uHPsf2srHvCs7BuRqo9A4seMuBuUNPJOQA2frhg==",
       "type": "package",
       "path": "runtime.win10-x86.microsoft.net.native.compiler/2.2.8-rel-28605-00",
       "hasTools": true,
@@ -7644,7 +7644,7 @@
       ]
     },
     "runtime.win10-x86.Microsoft.Net.Native.SharedLibrary/2.2.7-rel-28605-00": {
-      "sha512": "MIzKT2ld5+XgzFLkBzE1/jVoa3NXGhgcNB3lNNWOAPXqQoGxRsTIX1G+2xGHvV3ZFKFFQqx9DFUI9oBTke7o8Q==",
+      "sha512": "Iat43v5IS7KqoyE16mxOJwVVtVh9LaE6x7b3w0VZFQsdixKNQ+cC9vKl3rH/rtqBY3SEecI4lBCCFq7+J5ZPHQ==",
       "type": "package",
       "path": "runtime.win10-x86.microsoft.net.native.sharedlibrary/2.2.7-rel-28605-00",
       "hasTools": true,
@@ -8022,7 +8022,7 @@
       ]
     },
     "runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk/2.2.10": {
-      "sha512": "yqgs5GCgrwl/IvLvTacrFrR6M07gTadmHzUtbSHHosRhw43SUGbE04zOGyBv/ondOwXMCX7bNhzcfmcKt3NH9g==",
+      "sha512": "HTprRJyqGL4cz6SNeXzR0NGl6gnOfrJbYx1jFs0jYPdUSUB/0I2/ZX9vYB5ceKT8I/xPyoUwv60H/0ZVjbPz4Q==",
       "type": "package",
       "path": "runtime.win10-x86.microsoft.net.uwpcoreruntimesdk/2.2.10",
       "hasTools": true,
@@ -8043,7 +8043,7 @@
       ]
     },
     "runtime.win10-x86.Microsoft.NETCore.UniversalWindowsPlatform/6.2.10": {
-      "sha512": "VPALEDBbRPVecxaDYWvMVYyqQYsU3Q2dqEzoMOswPdJ0/prc9btgh2AgOwP2HBgXSjHZcqeV6UHQxnHk7VvDzw==",
+      "sha512": "mi9fu+QTPml2dzdViqSrFd0PPSO5xmL/wYHiPkXsc+Y1U+rTsYqwOCZvfVPL6SVeRaPhqZe0QNEUq5XJMFmA0w==",
       "type": "package",
       "path": "runtime.win10-x86.microsoft.netcore.universalwindowsplatform/6.2.10",
       "files": [
@@ -8238,7 +8238,7 @@
   },
   "packageFolders": {
     "C:\\Users\\fabio\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
@@ -8252,14 +8252,14 @@
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
         "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\NuGet.Config",
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.17763"

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp build" xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+  <!--
+    ESTE ARQUIVO DE PACOTE DE MANIFESTO É GERADO PELO PROCESSO DE COMPILAÇÃO.
+
+    Alterações feitas neste arquivo serão perdidas quando ele for regenerado. Para corrigir erros neste arquivo, edite o arquivo de fonte .appxmanifest.
+
+    Para obter mais informações sobre arquivos de pacote de manifesto consulte http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="2d2ad359-7f4d-4ab0-9a02-ff73fb370aa4" Publisher="CN=fabio" Version="1.0.0.0" ProcessorArchitecture="arm64" />
+  <mp:PhoneIdentity PhoneProductId="2d2ad359-7f4d-4ab0-9a02-ff73fb370aa4" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>SNRHos.demo</DisplayName>
+    <PublisherDisplayName>fabio</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+    <PackageDependency Name="Microsoft.VCLibs.140.00" MinVersion="14.0.22929.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.NET.Native.Framework.2.2" MinVersion="2.2.27912.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.NET.Native.Runtime.2.2" MinVersion="2.2.28604.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="PT-BR" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="SNRHos.demo.exe" EntryPoint="SNRHos.demo.App">
+      <uap:VisualElements DisplayName="SNRHos.demo" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="SNRHos.demo" BackgroundColor="transparent">
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" />
+        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
+    <build:Item Name="VisualStudio" Version="17.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2022" />
+    <build:Item Name="OperatingSystem" Version="10.0.19041.1415 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.0.31912.81" />
+    <build:Item Name="ProjectGUID" Value="{817216EF-7CB5-463B-BD04-C509F503BB70}" />
+    <build:Item Name="ilc.exe" Version="2.2.28605.00 built by: PROJECTNREL" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="10.0.19041.685" />
+    <build:Item Name="OptimizingToolset" Value="ilc.exe" />
+    <build:Item Name="UseDotNetNativeSharedAssemblyFrameworkPackage" Value="True" />
+    <build:Item Name="DisableStackTraceMetadata" Value="false" />
+    <build:Item Name="DisableExceptionMessages" Value="false" />
+    <build:Item Name="ShortcutGenericAnalysis" Value="false" />
+    <build:Item Name="GeneratePGD" Value="false" />
+    <build:Item Name="ConsumePGD" Value="false" />
+    <build:Item Name="SingleThreadNUTC" Value="false" />
+    <build:Item Name="Use64BitCompiler" Value="false" />
+    <build:Item Name="OptimizeForSize" Value="false" />
+    <build:Item Name="AlignMethodsAtMinimalBoundaries" Value="false" />
+    <build:Item Name="LargeAddressAware" Value="false" />
+    <build:Item Name="MakePri.exe" Version="10.0.19041.685 (WinBuild.160101.0800)" />
+  </build:Metadata>
+</Package>
