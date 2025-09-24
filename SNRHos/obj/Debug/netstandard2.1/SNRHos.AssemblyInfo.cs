@@ -19,7 +19,7 @@ using System.Reflection;
     "integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de W" +
     "eb Service.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.2")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.2+0fb291742fd477cad23920d57c5ed9509786cbf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.2+396d0d5184b8f8703592bc56268fa818bcdef141")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNRHos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNRHos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.2")]
