@@ -8,3 +8,4 @@ C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.
 C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.sourcelink.json
 C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.dll
 C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.pdb
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.csproj.AssemblyReference.cache

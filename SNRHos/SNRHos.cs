@@ -11,7 +11,7 @@ namespace SNRHos
         public string SnNum { get; set; }
         public DateTime dataCheckin { get; set; }
         public DateTime dataCheckout { get; set; }
-        public FNRH Fnrh { get; set; }
+        public FNRH_OLD Fnrh { get; set; }
 
         public string FnrhInserir()
         {
@@ -21,7 +21,7 @@ namespace SNRHos
             var message = new StringBuilder();
             message.Append("<web:fnrhInserir>");
             message.Append("<chaveAcesso>" + ChaveAcesso + "</chaveAcesso>");
-            message.Append(FuncoesXml.ClasseParaXmlString<FNRH>(Fnrh));
+            message.Append(FuncoesXml.ClasseParaXmlString<FNRH_OLD>(Fnrh));
             message.Append("</web:fnrhInserir>");
 
             return SOAP.CallWebService(message.ToString());
@@ -36,7 +36,7 @@ namespace SNRHos
             message.Append("<web:fnrhAtualizar>");
             message.Append("<chaveAcesso>" + ChaveAcesso + "</chaveAcesso>");
             message.Append("<snNum>" + SnNum + "</snNum>");
-            message.Append(FuncoesXml.ClasseParaXmlString<FNRH>(Fnrh));
+            message.Append(FuncoesXml.ClasseParaXmlString<FNRH_OLD>(Fnrh));
             message.Append("</web:fnrhAtualizar>");
 
             return SOAP.CallWebService(message.ToString());
