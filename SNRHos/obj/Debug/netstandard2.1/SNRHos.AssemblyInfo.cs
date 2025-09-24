@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FabioHCNobre")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Licença Apache-2.0")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Objetivo a definição das especificações e critérios especializados para que os me" +
     "ios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma " +

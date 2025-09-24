@@ -23,5 +23,9 @@ Venha para nosso github e me ajude a implementar essa API</PackageReleaseNotes>
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
 
 </Project>
