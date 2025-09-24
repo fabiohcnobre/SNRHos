@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a99vPoyP/DWqCefoUWRxi72k047oQ4kBIFH1+A5UJhFcLlIIRmrVNDFAYhYOTr8TfY9B5ikBePvXbY7JAeymAA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+  "dgSpecHash": "ayomV6Wq0Kg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
@@ -28,5 +28,94 @@
     "C:\\Users\\fabio\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.10\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.10\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763). O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-arm. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-arm-aot. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-arm64-aot. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-x64. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-x64-aot. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-x86. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SNRHos não é compatível com uap10.0.17763 (UAP,Version=v10.0.17763) / win10-x86-aot. O projeto SNRHos dá suporte a: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "filePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos.demo\\SNRHos.demo.csproj",
+      "libraryId": "SNRHos",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-x86-aot"
+      ]
+    }
+  ]
 }

@@ -17,3 +17,4 @@ C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.
 C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.csproj.CoreCompileInputs.cache
 C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.csproj.AssemblyReference.cache
 C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.0\SNRHos.sourcelink.json

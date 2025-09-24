@@ -1,0 +1,10 @@
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\bin\Release\netstandard2.1\SNRHos.deps.json
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\bin\Release\netstandard2.1\SNRHos.dll
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\bin\Release\netstandard2.1\SNRHos.pdb
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.AssemblyInfoInputs.cache
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.AssemblyInfo.cs
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.sourcelink.json
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.dll
+C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\obj\Release\netstandard2.1\SNRHos.pdb

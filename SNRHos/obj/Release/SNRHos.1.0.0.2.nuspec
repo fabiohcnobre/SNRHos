@@ -11,13 +11,13 @@
 Venha para nosso github e me ajude a implementar essa API</releaseNotes>
     <copyright>Licença Apache-2.0</copyright>
     <tags>SNRHos, fnrh, turismo, Brasil</tags>
-    <repository url="https://github.com/fabiohcnobre/SNRHos" />
+    <repository type="git" url="https://github.com/fabiohcnobre/SNRHos" commit="342bd853c9419003340149e108a2792338226bcb" />
     <dependencies>
-      <group targetFramework=".NETStandard2.0" />
+      <group targetFramework=".NETStandard2.1" />
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\SNRHos\bin\Release\netstandard2.0\SNRHos.dll" target="lib\netstandard2.0\SNRHos.dll" />
-    <file src="C:\Users\fabio\source\repos\fabiohcnobre\SNRHos\images.jpg" target="images.jpg" />
+    <file src="C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\SNRHos\bin\Release\netstandard2.1\SNRHos.dll" target="lib\netstandard2.1\SNRHos.dll" />
+    <file src="C:\Users\fabio\Source\Repos\fabiohcnobre\SNRHos\images.jpg" target="images.jpg" />
   </files>
 </package>

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\CONTRIBUTING.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|solutionrelative:CONTRIBUTING.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONTRIBUTING.md",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\CONTRIBUTING.md",
+              "RelativeDocumentMoniker": "CONTRIBUTING.md",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\CONTRIBUTING.md",
+              "RelativeToolTip": "CONTRIBUTING.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-24T20:53:03.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-24T20:51:47.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
