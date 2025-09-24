@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\CONTRIBUTING.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{5311ED69-4283-4996-BB2E-6B71B6CF8222}|Itens de Solu\u00E7\u00E3o{5311ED69-4283-4996-BB2E-6B71B6CF8222}|solutionrelative:CONTRIBUTING.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CONTRIBUTING.md",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\CONTRIBUTING.md",
               "RelativeDocumentMoniker": "CONTRIBUTING.md",
@@ -43,19 +39,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-09-24T20:53:03.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-09-24T20:51:47.112Z",
               "EditorCaption": ""
             }
           ]
