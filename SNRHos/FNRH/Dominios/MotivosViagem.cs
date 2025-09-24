@@ -2,7 +2,7 @@
 
 namespace SNRHos.FNRH.Dominios
 {
-    internal class OpcaoDeficiencia
+    internal class MotivosViagem
     {
 
         [JsonProperty("id")]

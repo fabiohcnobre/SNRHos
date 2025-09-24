@@ -2,9 +2,8 @@
 
 namespace SNRHos.FNRH.Dominios
 {
-    internal class MotivosViagem
-    {
-
+    internal class OpcaoDeficiencia
+    { 
         [JsonProperty("id")]
         public string Id { get; set; }
 

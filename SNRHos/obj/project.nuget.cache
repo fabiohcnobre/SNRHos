@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WzM0X9HDu4=",
+  "dgSpecHash": "UYH19VvI5xc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\SNRHos\\SNRHos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],

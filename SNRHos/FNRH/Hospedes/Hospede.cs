@@ -27,7 +27,7 @@ namespace SNRHos.FNRH.Hospedes
         public Responsavel Responsavel { get; set; }
 
         [JsonProperty("fnrh")]
-        public Fnrh Fnrh { get; set; }
+        public FnrhDTO Fnrh { get; set; }
 
         [JsonProperty("is_principal")]
         public bool IsPrincipal { get; set; }
@@ -231,7 +231,7 @@ namespace SNRHos.FNRH.Hospedes
         public string Nome { get; set; }
     }
 
-    public class Fnrh
+    public class FnrhDTO
     {
         [JsonProperty("id")]
         public string Id { get; set; }

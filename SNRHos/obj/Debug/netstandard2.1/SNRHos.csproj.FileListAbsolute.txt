@@ -1,0 +1,6 @@
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Debug\netstandard2.1\SNRHos.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Debug\netstandard2.1\SNRHos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Debug\netstandard2.1\SNRHos.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Debug\netstandard2.1\SNRHos.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Debug\netstandard2.1\SNRHos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\FabioHCNobre\SNRHos\SNRHos\obj\Debug\netstandard2.1\SNRHos.sourcelink.json

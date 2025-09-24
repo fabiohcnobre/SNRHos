@@ -61,17 +61,16 @@
   "project": {
     "version": "1.0.0.2",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\SNRHos\\SNRHos.csproj",
       "projectName": "SNRHos",
-      "projectPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\SNRHos.csproj",
+      "projectPath": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\SNRHos\\SNRHos.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\Source\\Repos\\fabiohcnobre\\SNRHos\\SNRHos\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\source\\repos\\FabioHCNobre\\SNRHos\\SNRHos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\fabio\\source\\repos\\fabiohcnobre\\SNRHos\\NuGet.Config",
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -80,6 +79,7 @@
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
