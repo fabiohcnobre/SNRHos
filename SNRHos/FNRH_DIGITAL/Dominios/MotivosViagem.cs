@@ -3,8 +3,7 @@
 namespace SNRHos.FNRH.Dominios
 {
     public class MotivosViagem
-    {
-
+    { 
         [JsonProperty("id")]
         public string Id { get; set; }
 

@@ -2,7 +2,7 @@
 
 namespace SNRHos.FNRH.Dominios
 {
-    internal class MeiosTransporte
+    public class MeiosTransporte
     {
 
         [JsonProperty("id")]
