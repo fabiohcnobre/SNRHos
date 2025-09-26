@@ -31,21 +31,21 @@ namespace SNRHos.FNRH_DIGITAL.Reservas
         public string OrigemReservaId { get; set; }
 
         [JsonProperty("origem_reserva_label")]
-        public string OrigemReservaLabel { get; set; }
+        public string? OrigemReservaLabel { get; set; }
 
         [JsonProperty("data_entrada")]
-        public DateTime DataEntrada { get; set; }
+        public string? DataEntrada { get; set; }
 
         [JsonProperty("data_saida")]
-        public DateTime DataSaida { get; set; }
+        public string? DataSaida { get; set; }
 
         [JsonProperty("quantidade_hospede_adulto")]
-        public int QuantidadeHospedeAdulto { get; set; }
+        public int? QuantidadeHospedeAdulto { get; set; }
 
         [JsonProperty("quantidade_hospede_menor")]
-        public int QuantidadeHospedeMenor { get; set; }
+        public int? QuantidadeHospedeMenor { get; set; }
 
         [JsonProperty("link_precheckin")]
-        public string LinkPrecheckin { get; set; }
+        public string? LinkPrecheckin { get; set; }
     }
 }
