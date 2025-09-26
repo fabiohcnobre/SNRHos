@@ -22,10 +22,10 @@ namespace SNRHos.FNRH.Hospedagem
         public string NumeroReservaOta { get; set; }
 
         [JsonProperty("data_entrada")]
-        public DateTime DataEntrada { get; set; }
+        public string DataEntrada { get; set; }
 
         [JsonProperty("data_saida")]
-        public DateTime DataSaida { get; set; }
+        public string DataSaida { get; set; }
 
         [JsonProperty("quantidade_hospede_adulto")]
         public int QuantidadeHospedeAdulto { get; set; }
@@ -46,10 +46,10 @@ namespace SNRHos.FNRH.Hospedagem
         public string SituacaoHospede { get; set; }
 
         [JsonProperty("check_in_em")]
-        public DateTime CheckInEm { get; set; }
+        public string CheckInEm { get; set; }
 
         [JsonProperty("check_out_em")]
-        public DateTime CheckOutEm { get; set; }
+        public string CheckOutEm { get; set; }
 
         [JsonProperty("dados_pessoais")]
         public DadosPessoais DadosPessoais { get; set; }
@@ -82,7 +82,7 @@ namespace SNRHos.FNRH.Hospedagem
         public string GeneroDescricao { get; set; }
 
         [JsonProperty("data_nascimento")]
-        public DateTime DataNascimento { get; set; }
+        public string DataNascimento { get; set; }
 
         [JsonProperty("raca_id")]
         public string RacaId { get; set; }

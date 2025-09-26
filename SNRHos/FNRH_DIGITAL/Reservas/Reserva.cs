@@ -3,7 +3,7 @@ using System;
 
 namespace SNRHos.FNRH_DIGITAL.Reservas
 {
-    internal class Reserva
+    public class Reserva
     {
         [JsonProperty("numero_reserva")]
         public string NumeroReserva { get; set; }
@@ -12,10 +12,10 @@ namespace SNRHos.FNRH_DIGITAL.Reservas
         public string NumeroReservaOta { get; set; }
 
         [JsonProperty("data_entrada")]
-        public DateTime DataEntrada { get; set; }
+        public string DataEntrada { get; set; }
 
         [JsonProperty("data_saida")]
-        public DateTime DataSaida { get; set; }
+        public string DataSaida { get; set; }
 
         [JsonProperty("quantidade_hospede_adulto")]
         public int QuantidadeHospedeAdulto { get; set; }

@@ -16,10 +16,10 @@ namespace SNRHos.FNRH_DIGITAL.Reservas
         public string SituacaoHospedeId { get; set; }
 
         [JsonProperty("checkin_em")]
-        public DateTime CheckinEm { get; set; }
+        public string CheckinEm { get; set; }
 
         [JsonProperty("checkout_em")]
-        public DateTime CheckoutEm { get; set; }
+        public string CheckoutEm { get; set; }
 
         [JsonProperty("fnrh")]
         public Fnrh Fnrh { get; set; }

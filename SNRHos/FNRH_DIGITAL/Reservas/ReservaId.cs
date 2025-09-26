@@ -7,6 +7,6 @@ namespace SNRHos.FNRH_DIGITAL.Reservas
     public class ReservasId
     {
         [JsonProperty("reserva")]
-        public DadoReservas reserva { get; set; } 
+        public DadoReservas Reserva { get; set; } 
     }
 }

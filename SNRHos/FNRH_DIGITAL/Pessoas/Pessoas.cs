@@ -1,10 +1,11 @@
 ﻿using Newtonsoft.Json;
+using SNRHos.FNRH.Hospedagem;
 using SNRHos.FNRH.Hospedes;
 using System;
 
 namespace SNRHos.FNRH.Pessoas
 {
-    public class RootPessoa
+    public class RequistPessoa
     {
         [JsonProperty("pessoa")]
         public Pessoa Pessoa { get; set; }
@@ -31,7 +32,7 @@ namespace SNRHos.FNRH.Pessoas
         public string GeneroDescricao { get; set; }
 
         [JsonProperty("data_nascimento")]
-        public DateTime DataNascimento { get; set; }
+        public string DataNascimento { get; set; }
 
         [JsonProperty("raca_id")]
         public string RacaId { get; set; }
@@ -43,14 +44,18 @@ namespace SNRHos.FNRH.Pessoas
         public string TipoDeficienciaId { get; set; }
 
         [JsonProperty("documento_id")]
-        public Documento DocumentoId { get; set; }
+        public DocumentoId DocumentoId { get; set; }
 
         [JsonProperty("contato")]
         public Contato Contato { get; set; }
     }
-     
 
+    public class DocumentoId
+    {
+        [JsonProperty("numero_documento")]
+        public string NumeroDocumento { get; set; }
 
-
-
+        [JsonProperty("tipo_documento_id")]
+        public string TipoDocumentoID { get; set; }
+    } 
 }

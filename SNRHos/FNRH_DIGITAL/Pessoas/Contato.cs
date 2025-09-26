@@ -15,25 +15,25 @@ namespace SNRHos.FNRH.Pessoas
         public Endereco Endereco { get; set; }
 
         [JsonProperty("cep")]
-        public String Cep { get; set; }
+        public string Cep { get; set; }
 
         [JsonProperty("logradouro")]
-        public String Logradouro { get; set; }
+        public string Logradouro { get; set; }
 
         [JsonProperty("numero")]
-        public String Numero { get; set; }
+        public string Numero { get; set; }
 
         [JsonProperty("complemento")]
-        public String Complemento { get; set; }
+        public string Complemento { get; set; }
 
         [JsonProperty("bairro")]
-        public String Bairro { get; set; }
+        public string Bairro { get; set; }
 
         [JsonProperty("cidade_id")]
-        public long? CidadeId { get; set; }
+        public long CidadeId { get; set; }
 
         [JsonProperty("estado_id")]
-        public String EstadoId { get; set; }
+        public string EstadoId { get; set; }
     }
 
 

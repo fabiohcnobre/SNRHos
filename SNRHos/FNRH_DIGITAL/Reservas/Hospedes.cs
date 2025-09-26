@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace SNRHos.FNRH_DIGITAL.Reservas
 {
-    public class HospedesRoot
+    public class ReservaHospedes
     {
         [JsonProperty("dados")]
         public List<DadoHospedes> Dados { get; set; }
