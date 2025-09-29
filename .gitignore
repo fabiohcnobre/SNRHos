@@ -4,4 +4,4 @@
 
 /SNRHos/bin/*
 /SNRHos/obj/*
-/SNRHos/obj/Debug/netstandard2.1/SNRHos.AssemblyInfo.cs
+/SNRHos/obj/*
