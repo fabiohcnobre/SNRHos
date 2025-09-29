@@ -4,12 +4,13 @@ using System;
 namespace SNRHos.FNRH.Hospedes
 {
     using System;
+    using System.Collections.Generic;
     using Newtonsoft.Json;
 
-    public class Root
+    public class HospdesResponse
     {
         [JsonProperty("dados")]
-        public Hospede Dados { get; set; }
+        public List<Hospede> Dados { get; set; }
     }
 
     public class Hospede

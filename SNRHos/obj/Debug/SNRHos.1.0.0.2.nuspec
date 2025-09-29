@@ -11,7 +11,7 @@
 Venha para nosso github e me ajude a implementar essa API</releaseNotes>
     <copyright>Licença Apache-2.0</copyright>
     <tags>SNRHos, fnrh, turismo, Brasil</tags>
-    <repository type="git" url="https://github.com/fabiohcnobre/SNRHos" commit="b86176051948f69a5aa753a4b8a799938f991cf8" />
+    <repository type="git" url="https://github.com/fabiohcnobre/SNRHos" commit="1d1cba9addb1078bc19900fb8523ebefd53f02f7" />
     <dependencies>
       <group targetFramework=".NETStandard2.1">
         <dependency id="Newtonsoft.Json" version="13.0.4" exclude="Build,Analyzers" />
