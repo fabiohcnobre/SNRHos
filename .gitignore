@@ -5,3 +5,6 @@
 /SNRHos/bin/*
 /SNRHos/obj/*
 /SNRHos/obj/*
+/SNRHos/obj/Release/netstandard2.1/SNRHos.AssemblyInfo.cs
+/SNRHos/obj/Debug/netstandard2.1/SNRHos.AssemblyInfoInputs.cache
+/SNRHos/obj/Release/netstandard2.1/SNRHos.AssemblyInfoInputs.cache
