@@ -27,6 +27,9 @@ namespace SNRHos.FNRH.Hospedagem
         [JsonProperty("numero_reserva")]
         public string? NumeroReserva { get; set; }
 
+        [JsonProperty("numero_reserva_ota")]
+        public string? NumeroReservaOta { get; set; }
+
         [JsonProperty("situacao_reserva_id")]
         public string? SituacaoReservaId { get; set; }
 
@@ -41,6 +44,9 @@ namespace SNRHos.FNRH.Hospedagem
 
         [JsonProperty("quantidade_hospede_adulto")]
         public int? QuantidadeHospedeAdulto { get; set; }
+
+        [JsonProperty("quantidade_hospede_menor")]
+        public int? QuantidadeHospedeMenor { get; set; }
 
         [JsonProperty("link_precheckin")]
         public string? LinkPrecheckin { get; set; }
