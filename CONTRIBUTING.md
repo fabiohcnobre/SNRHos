@@ -30,14 +30,14 @@ https://hacktoberfest.com//</p>
 
 - Drop a :star: on the Github repository (optional)<br/>
 
-- Before Contribute Please read [CONTRIBUTING.md](https://github.com/fabiohcnobre/SNRHos/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fabiohcnobre/SNRHos/blob/master/CODE_OF_CONDUCT.md)
+- Before Contribute Please read [CONTRIBUTING.md](https://github.com/hoteldosnobres/SNRHos/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fabiohcnobre/SNRHos/blob/master/CODE_OF_CONDUCT.md)
 
 - Create an issue of the project or a feature you would like to add in the project and get the task assigned for youself.(Issue can be any bug fixes or any feature you want to add in this project).
 
 - Fork the repo to your Github.<br/>
 
 - Clone the Repo by going to your local Git Client in a particular local folder in your local machine by using this command with your forked repository link in place of below given link: <br/>
-  `git clone https://github.com/fabiohcnobre/SNRHos`
+  `git clone https://github.com/hoteldosnobres/SNRHos`
 - Create a branch using below command.
   `git branch <your branch name>`
 - Checkout to your branch.
@@ -56,6 +56,6 @@ https://hacktoberfest.com//</p>
 <h1 align="center">
  <b>Thanks to these amazing people
 <h1>
-<a href="https://github.com/fabiohcnobre/SNRHos/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fabiohcnobre/SNRHos&&max=817" />
+<a href="https://github.com/hoteldosnobres/SNRHos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hoteldosnobres/SNRHos&&max=817" />
 </a>
