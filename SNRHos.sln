@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Github", "Github", "{5311ED
 	ProjectSection(SolutionItems) = preProject
 		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
 		CONTRIBUTING.md = CONTRIBUTING.md
+		.github\FUNDING.yml = .github\FUNDING.yml
 		images.jpg = images.jpg
 		LICENSE = LICENSE
-		nuget.config = nuget.config
 		README.md = README.md
 	EndProjectSection
 EndProject
