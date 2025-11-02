@@ -16,6 +16,12 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build -c Release
+
       - name: Pack
         run: dotnet pack -c Release -o out
 
