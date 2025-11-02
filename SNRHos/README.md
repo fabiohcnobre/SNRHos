@@ -9,7 +9,8 @@ O Sistema Nacional de Registro de Hóspedes – SNRHos, desenvolvido pelo Minist
 
 https://www.gov.br/turismo/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/ficha-nacional-de-registro-de-hospedes
 
-# SNRHos -  Old 
+# SNRHos -  Old - Descontinuado (Setembro/2024)
+
 Este manual tem por objetivo a definição das especificações e critérios técnicos necessários para que os meios de hospedagem possam desenvolver a aplicação cliente que possibilite a integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de Web Service. 
 
 Em C#

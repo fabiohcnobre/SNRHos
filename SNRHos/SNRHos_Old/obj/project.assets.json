@@ -34,7 +34,7 @@
         "netcoreapp5.0"
       ],
       "sources": {
-        "https://nuget.pkg.github.com/fabiohcnobre/index.json": {}
+        "https://nuget.pkg.github.com/hoteldosnobres/index.json": {}
       },
       "frameworks": {
         "netcoreapp5.0": {

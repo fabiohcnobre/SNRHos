@@ -10,13 +10,14 @@
     <Authors>HoteldosNobres</Authors>
     <Description>Objetivo a definição das especificações e critérios especializados para que os meios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de Web Service.</Description>
     <Copyright>Licença Apache-2.0</Copyright>
-    <PackageProjectUrl>http://github.com/HoteldosNobres/SNRHos</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/HoteldosNobres/SNRHos</PackageProjectUrl>
     <PackageIcon>images.jpg</PackageIcon>
-    <RepositoryUrl>http://github.com/HoteldosNobres/SNRHos</RepositoryUrl>
+    <RepositoryUrl>https://github.com/HoteldosNobres/SNRHos</RepositoryUrl>
     <PackageTags>SNRHos, fnrh, turismo, Brasil, Serpro, FNRH Digital</PackageTags>
     <PackageReleaseNotes>Implementação da SNRHos 
 Venha para nosso github e me ajude a implementar essa API</PackageReleaseNotes>
     <NeutralLanguage>pt-BR</NeutralLanguage>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
