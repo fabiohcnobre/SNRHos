@@ -1,39 +1,35 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <PackageId>SNRHos</PackageId>
-    <Version>2.0.2</Version>
+    <Version>2.0.4</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>HoteldosNobres</Authors>
-    <Description>Objetivo a definição das especificações e critérios especializados para que os meios de hospedagem possam desenvolver a aplicação da cliente que possibilite uma integração com o Sistema Nacional de Registro de Hóspedes - SNRHos por meio de Web Service.</Description>
-    <Copyright>Licença Apache-2.0</Copyright>
-    <PackageProjectUrl>https://github.com/HoteldosNobres/SNRHos</PackageProjectUrl>
+    <Authors>fabiohcnobre</Authors>
+		<Company>fabiohcnobre</Company> 
+    <Description>Biblioteca para integração com o Sistema Nacional de Registro de Hóspedes (SNRHos), solução digital desenvolvida pelo Ministério do Turismo em parceria com o Serpro, que substitui a Ficha Nacional de Registro de Hóspedes (FNRH). Este pacote auxilia no envio de informações de pré check-in, check-in e check-out, atendendo às exigências da Lei nº 11.771/2008 e do Decreto nº 7.381/2010, facilitando a transmissão eletrônica de dados de hóspedes.</Description>
+		<PackageDescription>Biblioteca para integração com o Sistema Nacional de Registro de Hóspedes (SNRHos), solução digital desenvolvida pelo Ministério do Turismo em parceria com o Serpro, que substitui a Ficha Nacional de Registro de Hóspedes (FNRH). Este pacote auxilia no envio de informações de pré check-in, check-in e check-out, atendendo às exigências da Lei nº 11.771/2008 e do Decreto nº 7.381/2010, facilitando a transmissão eletrônica de dados de hóspedes.</PackageDescription>
+		<Copyright>Licença Apache-2.0</Copyright>
+    <PackageProjectUrl>https://github.com/fabiohcnobre/SNRHos</PackageProjectUrl>
     <PackageIcon>images.jpg</PackageIcon>
-    <RepositoryUrl>https://github.com/HoteldosNobres/SNRHos</RepositoryUrl>
+    <RepositoryUrl>https://github.com/fabiohcnobre/SNRHos</RepositoryUrl>
     <PackageTags>SNRHos, fnrh, turismo, Brasil, Serpro, FNRH Digital</PackageTags>
-    <PackageReleaseNotes>Implementação da SNRHos 
-Venha para nosso github e me ajude a implementar essa API</PackageReleaseNotes>
+    <PackageReleaseNotes>Ajustes gerais foram realizados; a versão antiga será descontinuada em breve — mais detalhes no GitHub.</PackageReleaseNotes>
     <NeutralLanguage>pt-BR</NeutralLanguage>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
-
   <ItemGroup>
     <None Include="..\images.jpg">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
   </ItemGroup>
-
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="" />
 		<None Include="LICENSE" Pack="true" PackagePath="" />
   </ItemGroup>
-
 </Project>
