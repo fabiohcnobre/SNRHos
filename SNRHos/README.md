@@ -57,7 +57,7 @@ Abaixo estão os arquivos e classes presentes no projeto, organizados por pasta.
   - `RegistrarRetorno.cs` (em `Hospedagem`)
 
 - `FNRH_DIGITAL/Reservas`
-  - `VicularHospede.cs`
+  - `VincularHospede.cs`
   - `ReservasNoShow.cs`
   - `Hospede.cs`
   - `ReservasCheckout.cs`
