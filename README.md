@@ -46,7 +46,7 @@ Abaixo estão os arquivos e classes presentes no projeto, organizados por pasta.
   - `Generos.cs`
   - `MeiosTransporte.cs`
 
-- `FNRH_DIGITAL/Hóspedes` (pasta `Hospedes`)
+- `FNRH_DIGITAL/Hospedes` (pasta `Hospedes`)
   - `Hospede.cs`
   - `Dados.cs`
   - `Checkin.cs`
