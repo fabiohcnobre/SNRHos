@@ -69,11 +69,14 @@ namespace SNRHos.FNRH.Hospedagem
         [JsonProperty("nome_social")]
         public string NomeSocial { get; set; }
 
-        [JsonProperty("tipo_nacionalidade_id")]
-        public string TipoNacionalidadeId { get; set; }
+        //[JsonProperty("tipo_nacionalidade_id")]
+        //public string TipoNacionalidadeId { get; set; }
 
-        [JsonProperty("nacionalidade")]
-        public string Nacionalidade { get; set; }
+        //[JsonProperty("nacionalidade")]
+        //public string Nacionalidade { get; set; }
+
+        [JsonProperty("PaisNacionalidade_id")]
+        public string PaisNacionalidade_id { get; set; }
 
         [JsonProperty("genero_id")]
         public string GeneroId { get; set; }
