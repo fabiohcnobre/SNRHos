@@ -8,6 +8,14 @@ O `FNRH Digital` (Ficha Nacional de Registro de Hóspedes digital) é a versão 
 Mais informações (documentação oficial):
 https://www.gov.br/turismo/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/ficha-nacional-de-registro-de-hospedes
 
+## DOCUMENTAÇÃO DA API
+
+- API Versão 1.3 (26/01/2025) - SERÁ DESATIVADA EM BREVE - APENAS PARA CONSULTA DE INTEGRAÇÕES ANTIGAS. NOVAS INTEGRAÇÕES DEVERÃO UTILIZAR A V2.
+
+- API Versão 2.0 - publicada em 11/02/2026. Sistemas que estavam utilizando a V1 deverão atualizar para a V2. Integração de novos sistemas deverão utilizar a V2.
+
+ATENÇÃO: orientação para Ambiente Staging do GOV.BR
+
 ## Requisitos
 - Biblioteca compatível com `.NET Standard 2.1`.
 
