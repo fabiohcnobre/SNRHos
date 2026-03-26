@@ -135,6 +135,9 @@ namespace SNRHos.FNRH.Hospedagem
         [JsonProperty("bairro")]
         public string Bairro { get; set; }
 
+        [JsonProperty("PaisResidencia_id")]
+        public string PaisResidenciaId { get; set; }
+
         [JsonProperty("cidade_id")]
         public long CidadeId { get; set; }
 
