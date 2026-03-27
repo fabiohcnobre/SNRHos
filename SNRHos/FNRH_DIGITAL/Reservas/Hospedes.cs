@@ -85,9 +85,9 @@ namespace SNRHos.FNRH_DIGITAL.Reservas
         public string NomeResponsavel { get; set; }
 
         [JsonProperty("checkin_em")]
-        public DateTime CheckinEm { get; set; }
+        public DateTime? CheckinEm { get; set; }
 
         [JsonProperty("checkout_em")]
-        public DateTime CheckoutEm { get; set; }
+        public DateTime? CheckoutEm { get; set; }
     }
 }
