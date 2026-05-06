@@ -83,7 +83,7 @@ namespace SNRHos.FNRH.Pessoas
         public string PaisResidenciaId { get; set; }
 
         [JsonProperty("cidade_id")]
-        public long CidadeId { get; set; }
+        public long? CidadeId { get; set; }
 
         [JsonProperty("estado_id")]
         public string EstadoId { get; set; }
