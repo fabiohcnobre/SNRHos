@@ -4,12 +4,32 @@ using System;
 namespace SNRHos.FNRH.Pessoas
 {
     public class Contato
-    {
+    { 
         [JsonProperty("email")]
         public string Email { get; set; }
 
+        [JsonProperty("Email")]
+        private string EmailMaiusculo
+        {
+            set => Email = value;
+        }
+        public bool ShouldSerializeEmailMaiusculo()
+        {
+            return false;
+        }
+
         [JsonProperty("telefone")]
         public string Telefone { get; set; }
+
+        [JsonProperty("Telefone")]
+        private string TelefoneMaiusculo
+        {
+            set => Telefone = value;
+        }
+        public bool ShouldSerializeTelefoneMaiusculo()
+        {
+            return false;
+        }
 
         [JsonProperty("endereco")]
         public Endereco Endereco { get; set; }
